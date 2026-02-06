@@ -20,14 +20,15 @@ I'm a passionate student with a love for technology, coding, and solving real-wo
 
 ## 🌟 Featured Project
 
-### [Excel Analysis Platform](https://github.com/y0007/Excel-Analysis-Platform)
+### [Hirely](https://github.com/y0007/Excel-Analysis-Platform)
 A robust platform designed to automate and enhance data analysis tasks in Excel. Built with Python and JavaScript, it streamlines workflows for students and data analysts alike.
 
 ---
 
 ## 📚 Other Notable Projects
 
-- [Ai-Mock_Interview_Platform](https://github.com/y0007/Ai-Mock_Interview_Platform): AI-powered platform for mock technical interviews.
+- [Excel Analysis Platform](https://github.com/y0007/Excel-Analysis-Platform)
+  A robust platform designed to automate and enhance data analysis tasks in Excel. Built with Python and JavaScript, it streamlines workflows for students and data analysts alike.
 - [Blogging-Platform](https://github.com/y0007/Blogging-Platform): Dynamic platform for bloggers built with modern web technologies.
 - [SQL-Leetcode-50](https://github.com/y0007/SQL-Leetcode-50): Solutions and explanations for 50 popular SQL problems.
 - [DSA](https://github.com/y0007/DSA): Data Structures & Algorithms practice in C++.
