@@ -28,9 +28,11 @@ An AI-powered mock interview platform that simulates real interview scenarios us
 ## 📚 Other Notable Projects
 
 - [Excel Analysis Platform](https://github.com/y0007/Excel-Analysis-Platform)
-  A robust platform designed to automate and enhance data analysis tasks in Excel. Built with Python and JavaScript, it streamlines workflows for students and data analysts alike.
-  [Devsecure](https://github.com/y0007/Devsecure_Hack-a-sol.git): IntelliChat is an OpenAI powered tool that brings chatbots to the next level of sophistication and intelligence. IntelliChat can engage in multi-    turn conversations, remembering previous interactions and providing relevant follow-up responses.
-- [Blogging-Platform](https://github.com/y0007/Blogging-Platform): Dynamic platform for bloggers built with modern web technologies.
+  A robust platform designed to automate and enhance data analysis tasks in Excel. Built with Python and JavaScript, it streamlines workflows for students and      data analysts alike.
+  
+  [Devsecure](https://github.com/y0007/Devsecure_Hack-a-sol.git): IntelliChat is an OpenAI powered tool that brings chatbots to the next level of sophistication      and intelligence. IntelliChat can engage in multi-    turn conversations, remembering previous interactions and providing relevant follow-up responses.
+  
+  [Blogging-Platform](https://github.com/y0007/Blogging-Platform): Dynamic platform for bloggers built with modern web technologies.
 
 
 ---
